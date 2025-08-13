@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Lock Screen",
+        "value": "lock"
+    },
+    {
+        "name": "Show Power Menu",
+        "value": "shutdown"
+    },
+    {
+        "name": "Get Current App",
+        "value": "get_current_app"
+    },
+    {
+        "name": "List All Apps",
+        "value": "list_apps"
+    },
+    {
+        "name": "Close Current App",
+        "value": "close_app"
+    }
+]
