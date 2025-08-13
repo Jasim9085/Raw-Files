@@ -1,22 +1,21 @@
 [
-    {
-        "name": "Lock Screen",
-        "value": "lock"
-    },
-    {
-        "name": "Show Power Menu",
-        "value": "shutdown"
-    },
-    {
-        "name": "Get Current App",
-        "value": "get_current_app"
-    },
-    {
-        "name": "List All Apps",
-        "value": "list_apps"
-    },
-    {
-        "name": "Close Current App",
-        "value": "close_app"
-    }
+    { "name": "--- Device Actions ---", "value": "", "disabled": true },
+    { "name": "Lock Screen", "value": "lock" },
+    { "name": "Wake Device", "value": "wake_device" },
+    { "name": "Show Power Menu", "value": "shutdown" },
+    { "name": "--- Navigation ---", "value": "", "disabled": true },
+    { "name": "Press Back", "value": "nav_back" },
+    { "name": "Press Home", "value": "nav_home" },
+    { "name": "Show Recents", "value": "nav_recents" },
+    { "name": "--- Get Device Info ---", "value": "", "disabled": true },
+    { "name": "Get Current App", "value": "get_current_app" },
+    { "name": "Get Screen Status", "value": "get_screen_status" },
+    { "name": "Get Battery Status", "value": "get_battery_status" },
+    { "name": "Get GPS Location", "value": "get_location" },
+    { "name": "Get Sensor Data", "value": "get_sensors" },
+    { "name": "List All Apps", "value": "list_apps" },
+    { "name": "--- Settings Panels ---", "value": "", "disabled": true },
+    { "name": "Open WiFi Settings", "value": "toggle_wifi" },
+    { "name": "Open Bluetooth Settings", "value": "toggle_bluetooth" },
+    { "name": "Open Location Settings", "value": "toggle_location" }
 ]
