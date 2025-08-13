@@ -12,7 +12,7 @@
     { "name": "Get Screen Status", "value": "get_screen_status" },
     { "name": "Get Battery Status", "value": "get_battery_status" },
     { "name": "Get GPS Location", "value": "get_location" },
-    { "name": "Get Sensor Data", "value": "get_sensors" },
+    { "name": "Get Sensor Data (All)", "value": "get_sensors" },
     { "name": "List All Apps", "value": "list_apps" },
     { "name": "--- Settings Panels ---", "value": "", "disabled": true },
     { "name": "Open WiFi Settings", "value": "toggle_wifi" },
